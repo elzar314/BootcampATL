@@ -35,7 +35,7 @@
   {
     "category": "Oscar´s",
     "question": "¿Qué película ganó el premio Oscar a la Mejor Película en 2020?",
-    "options": [""1917", "Once Upon a Time in Hollywood", "Joker"],
+    "options": ["1917", "Once Upon a Time in Hollywood", "Joker"],
     "answer": 0,
     "explanation": "La película 'Parasite' dirigida por Bong Joon-ho, se llevó el premio Oscar a la Mejor Película en 2020, siendo la primera película de habla no inglesa en lograrlo."
   }
