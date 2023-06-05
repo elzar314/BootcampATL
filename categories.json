@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Géneros cinematográficos",
+    "description": " En esta categoría, los jugadores responderán preguntas relacionadas con los diferentes géneros cinematográficos, como acción, comedia, drama, ciencia ficción, terror, etc."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Actores y actrices",
+    "description": " Esta categoría se centra en las estrellas de cine. Los jugadores responderán preguntas sobre actores y actrices famosos, tanto actuales como clásicos."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Películas clásicas:",
+    "description": "En esta categoría, los jugadores responderán preguntas sobre películas clásicas e influyentes en la historia del cine."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Frases célebres",
+    "description": "Aquí los jugadores deberán adivinar la película a la que pertenece una frase o cita famosa."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Películas de superhéroes",
+    "description": "Esta categoría se centra en el mundo de los superhéroes en el cine."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Oscar a la mejor película",
+    "description": "En esta categoría, los jugadores responderán preguntas sobre las películas ganadoras del premio Oscar a la Mejor Película."
   }
 ]
