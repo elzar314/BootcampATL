@@ -1,43 +1,6 @@
-[  {    "category": "Géneros",    
+{    "category": "Géneros",    
     "question": "¿En qué género cinematográfico se clasifica la película 'El Padrino'?",    
     "options": ["Acción", "Comedia", "Drama"],
     "answer": 2,
     "explanation": "'El Padrino' se clasifica en el género del drama, siendo uno de los mayores exponentes del cine de gángsters y mafias."
-  },
-  {
-    "category": "Actores",
-    "question": "¿Qué actor interpretó el papel de Joker en la película 'El Caballero de la Noche'?",
-    "options": ["Robert Downey Jr.", "Joaquin Phoenix", "Heath Ledger"],
-    "answer": 2,
-    "explanation": "Heath Ledger interpretó magistralmente al Joker en 'El Caballero de la Noche', ganando un Oscar póstumo por su actuación."
-  },
-  {
-    "category": "Clásicos",
-    "question": "¿Quién dirigió la película 'Casablanca'?",
-    "options": ["Steven Spielberg", "Alfred Hitchcock", "Michael Curtiz"],
-    "answer": 2,
-    "explanation": "La película 'Casablanca' fue dirigida por Michael Curtiz, convirtiéndose en un clásico del cine y ganando varios premios de la Academia."
-  },
-  {
-    "category": "Frases",
-    "question": "¿A qué película pertenece la frase: 'Que la Fuerza te acompañe'?",
-    "options": ["El Padrino", "Pulp Fiction", "Star Wars"],
-    "answer": 2,
-    "explanation": "La frase 'Que la Fuerza te acompañe' es icónica de la saga de películas 'Star Wars', creada por George Lucas."
-  },
-  {
-    "category": "Superhéroes",
-    "question": "¿Cuál de los siguientes actores interpreta a Iron Man en el Universo Cinematográfico de Marvel?",
-    "options": ["Chris Hemsworth", "Robert Downey Jr.", "Chris Evans"],
-    "answer": 1,
-    "explanation": "Robert Downey Jr. interpreta a Iron Man en el Universo Cinematográfico de Marvel, siendo uno de los personajes más populares de la franquicia."
-  },
-  {
-    "category": "Oscar´s",
-    "question": "¿Qué película ganó el premio Oscar a la Mejor Película en 2020?",
-    "options": ["1917", "Once Upon a Time in Hollywood", "Joker"],
-    "answer": 0,
-    "explanation": "La película 'Parasite' dirigida por Bong Joon-ho, se llevó el premio Oscar a la Mejor Película en 2020, siendo la primera película de habla no inglesa en lograrlo."
   }
-]
-
