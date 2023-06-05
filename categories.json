@@ -1,26 +1,26 @@
 [
   {
-    "category": "Géneros cinematográficos",
+    "category": "Géneros",
     "description": " En esta categoría, los jugadores responderán preguntas relacionadas con los diferentes géneros cinematográficos, como acción, comedia, drama, ciencia ficción, terror, etc."
   },
   {
-    "category": "Actores y actrices",
+    "category": "Actores",
     "description": " Esta categoría se centra en las estrellas de cine. Los jugadores responderán preguntas sobre actores y actrices famosos, tanto actuales como clásicos."
   },
   {
-    "category": "Películas clásicas:",
+    "category": "Clásicos:",
     "description": "En esta categoría, los jugadores responderán preguntas sobre películas clásicas e influyentes en la historia del cine."
   },
   {
-    "category": "Frases célebres",
+    "category": "Frases",
     "description": "Aquí los jugadores deberán adivinar la película a la que pertenece una frase o cita famosa."
   },
   {
-    "category": "Películas de superhéroes",
+    "category": "Superhéroes",
     "description": "Esta categoría se centra en el mundo de los superhéroes en el cine."
   },
   {
-    "category": "Oscar a la mejor película",
+    "category": "Oscar´s",
     "description": "En esta categoría, los jugadores responderán preguntas sobre las películas ganadoras del premio Oscar a la Mejor Película."
   }
 ]
