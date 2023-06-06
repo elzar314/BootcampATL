@@ -1,7 +1,0 @@
-{
-  "category": "Géneros",
-  "question": "¿Cuál es el género cinematográfico de la película Jurassic Park?",
-  "options": ["Acción", "Aventura", "Ciencia ficción"],
-  "answer": 2,
-  "explanation": "Jurassic Park es una película de ciencia ficción que combina elementos de aventura y acción."
-}
