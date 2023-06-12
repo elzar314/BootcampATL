@@ -9,7 +9,6 @@ public class E5_juegoAdivina {
         int adivinador =((int) (Math.random()*100));
         boolean encontrado=false;
 
-
         System.out.print("Ingresa un número entre 1 y 100 y verifica si adivinaste: ");
         int numero;
         Scanner scanner3 = new Scanner(System.in);
